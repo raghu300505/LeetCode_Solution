@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/raghu300505/LeetCode_Solution/tree/master/0952-word-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/raghu300505/LeetCode_Solution/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/raghu300505/LeetCode_Solution/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
