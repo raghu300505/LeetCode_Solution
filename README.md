@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/raghu300505/LeetCode_Solution/tree/master/0952-word-subsets) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raghu300505/LeetCode_Solution/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/raghu300505/LeetCode_Solution/tree/master/0952-word-subsets) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raghu300505/LeetCode_Solution/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Linked List
 |  |
 | ------- |
