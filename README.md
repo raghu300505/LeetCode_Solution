@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0952-word-subsets](https://github.com/raghu300505/LeetCode_Solution/tree/master/0952-word-subsets) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raghu300505/LeetCode_Solution/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raghu300505/LeetCode_Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/raghu300505/LeetCode_Solution/tree/master/0952-word-subsets) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raghu300505/LeetCode_Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/raghu300505/LeetCode_Solution/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raghu300505/LeetCode_Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
