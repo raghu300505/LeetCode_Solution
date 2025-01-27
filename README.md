@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raghu300505/LeetCode_Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/raghu300505/LeetCode_Solution/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/raghu300505/LeetCode_Solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
