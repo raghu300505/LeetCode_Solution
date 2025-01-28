@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raghu300505/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0952-word-subsets](https://github.com/raghu300505/LeetCode_Solution/tree/master/0952-word-subsets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raghu300505/LeetCode_Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raghu300505/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0952-word-subsets](https://github.com/raghu300505/LeetCode_Solution/tree/master/0952-word-subsets) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raghu300505/LeetCode_Solution/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Linked List
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/raghu300505/LeetCode_Solution/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raghu300505/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raghu300505/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
