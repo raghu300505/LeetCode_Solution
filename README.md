@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/raghu300505/LeetCode_Solution/tree/master/0952-word-subsets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/raghu300505/LeetCode_Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raghu300505/LeetCode_Solution/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/raghu300505/LeetCode_Solution/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raghu300505/LeetCode_Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
