@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/raghu300505/LeetCode_Solution/tree/master/0952-word-subsets) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/raghu300505/LeetCode_Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raghu300505/LeetCode_Solution/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raghu300505/LeetCode_Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
@@ -12,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/raghu300505/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0952-word-subsets](https://github.com/raghu300505/LeetCode_Solution/tree/master/0952-word-subsets) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/raghu300505/LeetCode_Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/raghu300505/LeetCode_Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/raghu300505/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0952-word-subsets](https://github.com/raghu300505/LeetCode_Solution/tree/master/0952-word-subsets) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/raghu300505/LeetCode_Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raghu300505/LeetCode_Solution/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Linked List
 |  |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/raghu300505/LeetCode_Solution/tree/master/0148-sort-list) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/raghu300505/LeetCode_Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Merge Sort
 |  |
 | ------- |
